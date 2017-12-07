@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/hawk/2workspace/OExp05-DataPath/OExp05_DataPath.ncd
+OUTFILE=/home/hawk/2workspace/OExp05-DataPath/OExp05_DataPath.bit
+FAMILY=Kintex7
+PART=xc7k325t-2ffg676
+WORKINGDIR=/home/hawk/2workspace/OExp05-DataPath
+LICENSE=ISE
+USER_INFO=_
