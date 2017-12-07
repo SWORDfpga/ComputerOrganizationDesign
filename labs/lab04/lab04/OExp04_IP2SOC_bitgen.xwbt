@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/hawk/2workspace/OExp04-IP2CPU/OExp04_IP2SOC.ncd
+OUTFILE=/home/hawk/2workspace/OExp04-IP2CPU/OExp04_IP2SOC.bit
+FAMILY=Kintex7
+PART=xc7k325t-2ffg676
+WORKINGDIR=/home/hawk/2workspace/OExp04-IP2CPU
+LICENSE=ISE
+USER_INFO=_
