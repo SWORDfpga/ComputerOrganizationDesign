@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/hawk/2workspace/OExp01-Element/OExp01_Element20.ncd
+OUTFILE=/home/hawk/2workspace/OExp01-Element/OExp01_Element20.bit
+FAMILY=Kintex7
+PART=xc7k325t-2ffg676
+WORKINGDIR=/home/hawk/2workspace/OExp01-Element
+LICENSE=ISE
+USER_INFO=_
