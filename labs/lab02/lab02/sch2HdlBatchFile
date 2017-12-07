@@ -1,0 +1,2 @@
+sch2hdl,-sympath,/home/hawk/2workspace/OExp02-IO/Code/IOCore,-sympath,/home/hawk/2workspace/OExp02-IO/ipcore_dir,-intstyle,ise,-family,kintex7,-verilog,/home/hawk/2workspace/OExp02-IO/OExp02.vf,-w,/home/hawk/2workspace/OExp02-IO/Code/OExp02.sch
+sch2hdl,-sympath,/home/hawk/2workspace/OExp02-IO/Code/IOCore,-sympath,/home/hawk/2workspace/OExp02-IO/ipcore_dir,-intstyle,ise,-family,kintex7,-verilog,/home/hawk/2workspace/OExp02-IO/MC14495_ZJU.vf,-w,/home/hawk/2workspace/OExp02-IO/Code/MC14495_ZJU.sch
